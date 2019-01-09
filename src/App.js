@@ -4,7 +4,7 @@ import Form from './components/Form';
 import Weather from './components/Weather';
 import './App.css';
 
-const API_KEY = 'bb3eafe373aeb464520107dce07b74b';
+const API_KEY = 'your_api_key_from_https://openweathermap.org/api';
 
 
 class App extends Component{
